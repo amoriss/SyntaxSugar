@@ -1,0 +1,16 @@
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.exe
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.deps.json
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.runtimeconfig.json
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.runtimeconfig.dev.json
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.dll
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\ref\SyntaxSugarExercise.dll
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.pdb
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.dll
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\ref\SyntaxSugarExercise.dll
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.pdb
+C:\Users\amori\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.genruntimeconfig.cache
